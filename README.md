@@ -33,8 +33,8 @@ pip install -r requirements.txt  # install requirements
 ## Clone repository
 
 ```shell
-git clone https://github.com/weijun88/SANet.git
-cd SANet/
+git clone git@github.com:yuncheng97/APAUNet.git
+cd APAUNet/
 ```
 
 ## Dataset
